@@ -50,6 +50,7 @@ I have been involved in various projects, including CRM system, ERP project, Med
 </div>
 <div align="center">
    <a target="_blank" href="https://app.rs.school/certificate/zckpvd9n"><img src="img/certificates/aws_cloud_developer.jpeg" alt="Certificate" style="width: 200px"></a> 
+   <a target="_blank" href="https://app.rs.school/certificate/c2cwzi8l"><img src="img/certificates/angular18.png" alt="Certificate" style="width: 200px"></a> 
 </div>
 
 <h3  align="left">🛠 Technologies:</h3>
