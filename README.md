@@ -40,7 +40,7 @@ I have been involved in various projects, including CRM system, ERP project, Med
 - [x] [2023 Coursera: AWS Fundamentals](https://www.coursera.org/account/accomplishments/specialization/VJYZKSREYKH2)
 - [x] [2023 Coursera: Developing Applications on AWS](https://www.coursera.org/account/accomplishments/specialization/AFXBNS88GLBW?utm_product=s12n)
 - [x] [2024: AWS Cloud Developer Course](https://app.rs.school/certificate/zckpvd9n)
-- [ ] [2024: Angular Course](https://github.com/lionna/test_angular_project) _(inprogress)_
+- [x] [2024: Angular Course](https://github.com/lionna/test_angular_project)
 - [ ] [2024: AWS DevOps Course](https://github.com/lionna/rsschool-devops-course-tasks) _(inprogress)_
 
 <div align="center">
