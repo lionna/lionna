@@ -13,7 +13,7 @@ I have been involved in various projects, including CRM system, ERP project, Med
 
 <h3 align="left">⚡ Some test projects :</h3>
 
-- [x] [Test Project. HTML to PDF converter: React + .Net8 + few xUnit tests](https://github.com/lionna/test-project)
+- [x] [Test Project. HTML to PDF converter: React + .Net8 + few xUnit tests](https://github.com/lionna/converter_project)
 - [x] [Test Project. Interactive Presentation Polls & Votes Backend: .Net 8 API + E2E tests  + few xUnit tests](https://github.com/lionna/api-presentation)
 - [x] [Test Project. Rate-limiting: .Net 8 API + few xUnit tests](https://github.com/lionna/rate-limiter)
 - [x] [Pet project: Api Auth (Node.js) for my pet project](https://github.com/lionna/api-auth)
