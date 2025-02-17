@@ -7,7 +7,7 @@ I have been involved in various projects, including CRM system, ERP project, Med
 - **GitHub**: [github.com/lionna](https://github.com/lionna)
 - **CV**: [github.com/lionna](https://lionna.github.io/cv/)
 
-🌍 Location: Poland, Lodz/Warsaw
+🌍 Location: Poland, Warsaw
 
 🏢 Current Employer: -
 
@@ -17,10 +17,10 @@ I have been involved in various projects, including CRM system, ERP project, Med
 - [x] [Test Project. Interactive Presentation Polls & Votes Backend: .Net 8 API + E2E tests  + few xUnit tests](https://github.com/lionna/api-presentation)
 - [x] [Test Project. Rate-limiting: .Net 8 API + few xUnit tests](https://github.com/lionna/rate-limiter)
 - [x] [Pet project: Api Auth (Node.js) for my pet project](https://github.com/lionna/api-auth)
-- [x] [Angular Course project](https://github.com/lionna/test-angular-project) _(inprogress)_
-- [x] [Angular final project](https://github.com/lionna/express-train-app) _(inprogress)_
-- [ ] [AWS Devops cource](https://github.com/lionna/rsschool-devops-course-tasks) _(inprogress)_
-
+- [x] [Angular Course project](https://github.com/lionna/test-angular-project)
+- [x] [Angular final project](https://github.com/lionna/express-train-app)
+- [ ] [AWS Devops course](https://github.com/lionna/rsschool-devops-course-tasks) _(inprogress)_
+- [ ] [React course](https://github.com/lionna/react-labs) _(inprogress)_
 <details>
 <summary>A bit of information about me</summary>
 
@@ -34,16 +34,17 @@ I have been involved in various projects, including CRM system, ERP project, Med
 <h3 align="left">🌱 EDUCATION AND COURSES :</h3>
 
 - [x] **2007-2012** Belarusian National Technical University,  Minsk, Faculty of Information Technology and Robotics: Software for information systems and technologies (higher bachelor)
-- [x] **Nov. 2010 – June 2012**: ITreeStudio Minsk, Trainning and Internship: Sencha Touch, HTML, CSS, JavaScript, JQuery, Sql 
-- [x] **Febr. 2011 – August 2011**: GorInfaService,Subcontracting agreement: SQL, VBA
+- [x] **Nov. 2010 – June 2012**: ITreeStudio Minsk, Training and Internship: Sencha Touch, HTML, CSS, JavaScript, JQuery, Sql 
+- [x] **Febr. 2011 – August 2011**: GorInfaService, Subcontracting agreement: SQL, VBA
 - [x] **2014**: ASP.NET MVC 4.0 (2013) 
 - [x] [2023 Coursera: Meta Front-End Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/A26E3L7DR8BG)
 - [x] [2023 Coursera: AWS Fundamentals](https://www.coursera.org/account/accomplishments/specialization/VJYZKSREYKH2)
 - [x] [2023 Coursera: Developing Applications on AWS](https://www.coursera.org/account/accomplishments/specialization/AFXBNS88GLBW?utm_product=s12n)
 - [x] [2024: AWS Cloud Developer Course](https://app.rs.school/certificate/zckpvd9n)
 - [x] [2024: Angular Course](https://app.rs.school/certificate/c2cwzi8l)
-- [ ] [2024: AWS DevOps Course](https://github.com/lionna/rsschool-devops-course-tasks) _(inprogress)_
-
+- [ ] [2024: AWS DevOps Course](https://github.com/lionna/rsschool-devops-course-tasks)
+- [ ] [2025: React Course](https://github.com/lionna/react-labs)
+      
 <div align="center">
    <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/A26E3L7DR8BG"><img src="img/certificates/meta_front_end_developer.jpeg" alt="Certificate" style="width: 200px"></a>
    <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/VJYZKSREYKH2"><img src="img/certificates/aws_fundamentals.jpeg" alt="Certificate" style="width: 200px"></a>
