@@ -17,8 +17,8 @@ I have been involved in various projects, including CRM system, ERP project, Med
 - [x] [Test Project. Interactive Presentation Polls & Votes Backend: .Net 8 API + E2E tests  + few xUnit tests](https://github.com/lionna/api-presentation)
 - [x] [Test Project. Rate-limiting: .Net 8 API + few xUnit tests](https://github.com/lionna/rate-limiter)
 - [x] [Pet project: Api Auth (Node.js) for my pet project](https://github.com/lionna/api-auth)
-- [x] [Angular Course project](https://github.com/lionna/test-angular-project)
-- [x] [Angular final project](https://github.com/lionna/express-train-app)
+- [x] [Angular Course project (Angular 18, NgRx, Signals, JEST, ESLint, Prettier)](https://github.com/lionna/test-angular-project)
+- [x] [Angular final project (Angular 18, NgRx, Signals, JEST, i18n, Leaflet, PrimeNG, ESLint, Prettier, Husky)](https://github.com/lionna/express-train-app)
 - [ ] [AWS Devops course](https://github.com/lionna/rsschool-devops-course-tasks) _(inprogress)_
 - [ ] [React course](https://github.com/lionna/react-labs) _(inprogress)_
 <details>
