@@ -9,7 +9,7 @@ I have been involved in various projects, including CRM system, ERP project, Med
 
 🌍 Location: Poland, Warsaw
 
-🏢 Current Employer: -
+🏢 Current Employer: 
 
 <h3 align="left">⚡ Some test projects :</h3>
 
